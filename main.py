@@ -29,7 +29,7 @@ async def voice(request: Request):
             language="hi-IN"
         )
         gather.say(
-            "Namaste. Aapka  Spiderlink Broadband main suaagat h . Main aapki kaise madad kar sakta hoon?",
+            "Namaste. Aapka  Spiderlink Broadband main suaagat h . Main aapki kaise madad kar sakti hoon?",
             voice="Polly.Aditi",
             language="hi-IN"
         )
